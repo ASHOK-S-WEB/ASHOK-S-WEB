@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ASHOK-S-WEB
-- 👀 I’m interested in web devlopment and cross platform app development using react native.
+- 👀 I’m interested in web devlopment .
 - 🌱 I’m currently learning react framework.
 - 📫 How to reach me ashoksteven7@gmail.com
 
