@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ASHOK-S-WEB
-- 👀 I’m interested in web devlopment .
-- 🌱 I’m currently learning react framework.
+- 👀 I’m interested in web devlopment and web design.
+- 🌱 I’m currently doing my BCA graduate.
 - 📫 How to reach me ashoksteven7@gmail.com
 
 <!---
